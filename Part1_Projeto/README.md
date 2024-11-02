@@ -187,3 +187,36 @@ desejam acompanhar o seu progresso.
   4. Envio de Mensagens para o Abrigo: Silana utiliza o sistema de mensagens
   integrado na app para contactar o abrigo e esclarecer dúvidas sobre o
   estado de saúde do animal.
+
+
+## 10. Contribuições das unidades curriculares 
+
+Cada unidade curricular terá a sua contribuição no desenvolvimento deste projeto. Seguindo embaixo as mesmas:
+
+### Programação de Dispositivos Móveis
+
+Esta unidade curricular ajudará na parte de desenvolvimento da nossa app utilizando o Android Studio.
+
+### Programação Orientada a Objetos 
+
+Esta unidade curricular ajudará na parte das API's que pretendemos utilizar na app e também no desenvolvimento de um servidor em Spring Boot.
+
+### Bases de dados
+
+Esta unidade curricular ajudará na criação da base de dados da nossa app, o que vai contribuir para uma melhor gestão das informações dos nossos utilizadores e restantes entidades. 
+
+### Competências Comunicacionais 
+
+Esta unidade curricular contribuirá para a melhoria ou acompanhamento das nossas apresentações no projeto. 
+Podendo entregar, assim, apresentações e relatórios mais perceptíveis para o público. 
+
+### Matemática Discreta 
+
+Com esta unidade curricular nós pretendemos que ajude na parte de percentagens e análises dos dados da nossa app. 
+
+## 11. Modelo de Domínio 
+
+Na imagem anexada, pode-se averiguar o nome das entidades e as suas relaões que iremos utilizar na base de dados.
+
+<img width="450" alt="Captura de ecrã 2024-11-02, às 15 06 49" src="https://github.com/user-attachments/assets/e654cd5b-d759-486a-83dc-31d33b6e238c">
+
