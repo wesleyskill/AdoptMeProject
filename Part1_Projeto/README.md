@@ -1,6 +1,6 @@
 # Relatório do projeto de desenvolvimento de uma aplicação móvel para adoção de animais e doação de bens.
 
-##EI/D01/2ºano/Grupo2:
+## EI/D01/2ºano/Grupo2:
 1. Evandra Gomes 20230416
 2. Silana Naval 20230306
 3. Wesley Vinhas 20220119
